@@ -1,0 +1,57 @@
+html {
+    display: block;
+}
+body {
+    margin: 0;
+    background-color: #ccdfcb;
+}
+h1, h2, h3 {
+    font-family: "Josefin Sans";
+    text-transform: uppercase;
+    color: #ff6a5c;
+    margin: 40px;
+}
+p {
+	font-family: "Josefin Sans";
+	margin: 40px;
+	color: df744a;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+}
+ul, ol {
+    margin: 40px;
+    font-family: "Josefin Sans";
+}
+.regular {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #414141;
+	font-family: "Josefin Sans";
+}
+.menulist a {
+	display: block;
+	color: white;
+	text-align: left;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.menulist a:hover {
+	background-color: #111;
+}
+.menulist {
+	float: left;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
+.propaganda {
+	display: block;
+    margin: auto;
+    width: 40%
+}
