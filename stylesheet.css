@@ -48,10 +48,13 @@ ul, ol {
 img {
     display: block;
     margin: auto;
-    width: 40%;
+	
 }
 .propaganda {
 	display: block;
     margin: auto;
     width: 40%
+}
+.homepage a {
+    text-align: center;
 }
